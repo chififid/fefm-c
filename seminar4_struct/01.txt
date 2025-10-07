@@ -1,0 +1,7 @@
+Book* pb = &b;
+float* pprice = &b.price;
+char* pc = &b.title[0];
+p->rating = p->rating + 1;
+p->release_date.month = p->release_date.month + 1;
+(p-1)->rating = (p-1)->rating + 1;
+(p+1)->release_date.year = (p+1)->release_date.year * 2;

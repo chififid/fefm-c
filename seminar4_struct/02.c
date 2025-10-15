@@ -66,3 +66,7 @@ int main() {
     print_triangle(&t);
     return 0;
 }
+
+
+
+

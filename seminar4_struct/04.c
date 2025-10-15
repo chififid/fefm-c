@@ -41,3 +41,7 @@ int main() {
     printf("struct fox: sizeof=%zu, align=%zu\n", sizeof(struct fox), _Alignof(struct fox));
     return 0;
 }
+
+
+
+
